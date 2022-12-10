@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "tabBar_subPackage",
+  "description": "Taro tabBar with subPackage demo",
+  "appid": "testAppID",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
